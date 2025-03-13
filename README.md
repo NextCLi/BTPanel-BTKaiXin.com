@@ -1,13 +1,8 @@
 # BTPanel-BTKaiXin.com
 ## 宝塔开心版 宝塔面板开心版  官网 https://www.BTKaiXin.com
-### 9.2.0，通用安装命令
-```
-if [ -f /usr/bin/curl ];then curl -sSO http://v920.hostcli.com/install/install_6.0.sh;else wget -O install_6.0.sh http://v920.hostcli.com/install/install_6.0.sh;fi;bash install_6.0.sh www.HostCLi.com
-```
+### 宝塔开心版 9.2.0版本安装命令 [最新推荐]
 
-### 宝塔纯净版 9.2.0版本安装命令 [最新推荐]
-
-通用全新安装命令，支持Ubuntu 22 (纯净版推荐) / Debian 12 (宝塔官方推荐) / CentOS 9，大约2分钟完成面板安装
+通用全新安装命令，支持Ubuntu 22 (开心版推荐) / Debian 12 (宝塔官方推荐) / CentOS 9，大约2分钟完成面板安装
 ```
 if [ -f /usr/bin/curl ];then curl -sSO http://v920.hostcli.com/install/install_6.0.sh;else wget -O install_6.0.sh http://v920.hostcli.com/install/install_6.0.sh;fi;bash install_6.0.sh www.HostCLi.com
 ```
