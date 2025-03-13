@@ -1,5 +1,5 @@
 # BTPanel-BTKaiXin.com
-## 宝塔开心版 宝塔面板开心版
+## 宝塔开心版 宝塔面板开心版  官网 https://www.BTKaiXin.com
 ### 9.2.0，通用安装命令
 ```
 if [ -f /usr/bin/curl ];then curl -sSO http://v920.hostcli.com/install/install_6.0.sh;else wget -O install_6.0.sh http://v920.hostcli.com/install/install_6.0.sh;fi;bash install_6.0.sh www.HostCLi.com
