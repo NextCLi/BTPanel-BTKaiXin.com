@@ -24,8 +24,8 @@ if [ -f /usr/bin/curl ];then curl -sSO http://v920.hostcli.com/install/install_6
 
 
 ------
-
-
+------
+------
 
 # 宝塔云安全监控v2.3.0版本安装命令 [最新推荐]
 ### 通用全新安装命令，支持Ubuntu 22、Debian 12、CentOS 9，大约14分钟完成面板安装
