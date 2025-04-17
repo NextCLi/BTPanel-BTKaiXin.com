@@ -1,4 +1,4 @@
-# BTPanel-BTKaiXin.com
+# 宝塔面板开心版 9.5.0版 最新版
 ## 宝塔开心版 宝塔面板开心版  官网 https://www.BTKaiXin.com
 ### 宝塔开心版 9.5.0版本安装命令 [最新推荐]
 
