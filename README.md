@@ -1,4 +1,4 @@
-# 宝塔面板开心版 9.5.0版 最新版
+# 宝塔面板开心版 9.5.0版 [最新推荐]
 ## 宝塔开心版 宝塔面板开心版  官网 https://www.BTKaiXin.com
 ### 宝塔开心版 9.5.0版本安装命令 [最新推荐]
 
@@ -17,6 +17,9 @@ SSH登录后输入bt 18 设置是否自动备份面板 ，重复输入几次命�
 
 来源： https://www.btkaixin.net/#install_linux_panel
 
+帮助文档：https://docs.btkaixin.com/
+
+Telegram通知教程：https://docs.btkaixin.com/telegram-bot/telegram-bot-notification
 
 ------
 
@@ -26,6 +29,10 @@ SSH登录后输入bt 18 设置是否自动备份面板 ，重复输入几次命�
 if [ -f /usr/bin/curl ];then curl -sSO http://bt95.btkaixin.net/install/install_btmonitor.sh;else wget -O install_btmonitor.sh http://bt95.btkaixin.net/install/install_btmonitor.sh;fi;bash install_btmonitor.sh www.BTKaiXin.com
 ```
 
-来源： https://www.btkaixin.net/#install_btmonitor 
+来源： https://www.btkaixin.net/#install_btmonitor
+
+帮助文档：https://docs.btkaixin.com/bt_cloud_monitor/install
+
+Telegram通知教程：https://docs.btkaixin.com/telegram-bot/telegram-bot-notification
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=NextCLi.BTPanel-BTKaiXin.com)
