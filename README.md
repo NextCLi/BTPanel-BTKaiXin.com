@@ -29,3 +29,5 @@ if [ -f /usr/bin/curl ];then curl -sSO http://v9.btkaixin.net/install/btkaixin/i
 ```
 
 来源： https://www.btkaixin.net/#install_btmonitor 
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=NextCLi.BTPanel-BTKaiXin.com)
